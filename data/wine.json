@@ -1,0 +1,382 @@
+{
+    "vintage": {
+        "id": 178630675,
+        "seo_name": "quinta-vale-do-cesto-alva-magna-branco-2023",
+        "name": "Quinta Vale do Cesto Alva Magna Branco 2023",
+        "statistics": {
+            "status": "BelowThreshold",
+            "ratings_count": 2,
+            "ratings_average": 0,
+            "labels_count": 4,
+            "wine_ratings_count": 24,
+            "wine_ratings_average": 0,
+            "wine_status": ""
+        },
+        "image": {
+            "location": "//images.vivino.com/labels/DBVt0g2KR222Fo84cjZWng.jpg",
+            "variations": {
+                "large": "//images.vivino.com/thumbs/DBVt0g2KR222Fo84cjZWng_375x500.jpg",
+                "medium": "//images.vivino.com/thumbs/DBVt0g2KR222Fo84cjZWng_150x200.jpg",
+                "medium_square": "//images.vivino.com/thumbs/DBVt0g2KR222Fo84cjZWng_150x150.jpg",
+                "small_square": "//images.vivino.com/thumbs/DBVt0g2KR222Fo84cjZWng_80x80.jpg"
+            }
+        },
+        "wine": {
+            "id": 12788181,
+            "name": "Alva Magna Branco",
+            "seo_name": "alva-magna-branco",
+            "type_id": 2,
+            "vintage_type": 0,
+            "is_natural": false,
+            "region": {
+                "id": 987,
+                "name": "Dão",
+                "name_en": "",
+                "seo_name": "dao",
+                "country": {
+                    "code": "pt",
+                    "name": "Portugal",
+                    "native_name": "Portugal",
+                    "seo_name": "portugal",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euros",
+                        "prefix": "€",
+                        "suffix": null
+                    },
+                    "regions_count": 93,
+                    "users_count": 1292568,
+                    "wines_count": 44877,
+                    "wineries_count": 6145,
+                    "most_used_grapes": [
+                        {
+                            "id": 67,
+                            "name": "Touriga Nacional",
+                            "seo_name": "touriga-nacional",
+                            "has_detailed_info": true,
+                            "wines_count": 85787,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 69,
+                            "name": "Tinta Roriz",
+                            "seo_name": "tinta-roriz",
+                            "has_detailed_info": false,
+                            "wines_count": 41047,
+                            "parent_grape_id": 19
+                        },
+                        {
+                            "id": 68,
+                            "name": "Touriga Franca",
+                            "seo_name": "touriga-franca",
+                            "has_detailed_info": false,
+                            "wines_count": 33763,
+                            "parent_grape_id": null
+                        }
+                    ]
+                },
+                "class": {
+                    "typecast_map": {
+                        "background_image": {},
+                        "class": {},
+                        "location": {}
+                    }
+                },
+                "background_image": {
+                    "location": "//images.vivino.com/regions/backgrounds/34x2o96vRoW3lL3V01Ls9g.jpg",
+                    "variations": {
+                        "large": "//thumbs.vivino.com/region_backgrounds/34x2o96vRoW3lL3V01Ls9g_1280x760.jpg",
+                        "medium": "//thumbs.vivino.com/region_backgrounds/34x2o96vRoW3lL3V01Ls9g_600x356.jpg"
+                    }
+                }
+            },
+            "winery": {
+                "id": 234203,
+                "name": "Quinta Vale do Cesto",
+                "seo_name": "quinta-vale-do-cesto",
+                "status": 0,
+                "background_image": null
+            },
+            "taste": {
+                "structure": {
+                    "acidity": 3.26,
+                    "fizziness": null,
+                    "intensity": 3.11,
+                    "sweetness": 2.36,
+                    "tannin": null,
+                    "user_structure_count": 4,
+                    "calculated_structure_count": 0
+                },
+                "flavor": []
+            },
+            "statistics": null,
+            "style": {
+                "id": 625,
+                "seo_name": "portuguese-dao-white",
+                "regional_name": "Dão",
+                "varietal_name": "White",
+                "name": "Portuguese Dão White",
+                "background_image": null,
+                "image": null,
+                "description": null,
+                "blurb": null,
+                "interesting_facts": null,
+                "body": 3,
+                "body_description": "Medium-bodied",
+                "acidity": 3,
+                "acidity_description": "ALTO",
+                "country": {
+                    "code": "pt",
+                    "name": "Portugal",
+                    "native_name": "Portugal",
+                    "seo_name": "portugal",
+                    "currency": {
+                        "code": "EUR",
+                        "name": "Euros",
+                        "prefix": "€",
+                        "suffix": null
+                    },
+                    "regions_count": 93,
+                    "users_count": 1292568,
+                    "wines_count": 44877,
+                    "wineries_count": 6145,
+                    "most_used_grapes": [
+                        {
+                            "id": 67,
+                            "name": "Touriga Nacional",
+                            "seo_name": "touriga-nacional",
+                            "has_detailed_info": true,
+                            "wines_count": 85787,
+                            "parent_grape_id": null
+                        },
+                        {
+                            "id": 69,
+                            "name": "Tinta Roriz",
+                            "seo_name": "tinta-roriz",
+                            "has_detailed_info": false,
+                            "wines_count": 41047,
+                            "parent_grape_id": 19
+                        },
+                        {
+                            "id": 68,
+                            "name": "Touriga Franca",
+                            "seo_name": "touriga-franca",
+                            "has_detailed_info": false,
+                            "wines_count": 33763,
+                            "parent_grape_id": null
+                        }
+                    ]
+                },
+                "wine_type_id": 2,
+                "food": [
+                    {
+                        "id": 12,
+                        "name": "Peixe gordo (salmão, atum, etc.)",
+                        "weight": 0,
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/12_richfish.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/12_richfish_932x810.png"
+                            }
+                        },
+                        "seo_name": null
+                    },
+                    {
+                        "id": 13,
+                        "name": "Marisco",
+                        "weight": 0.5,
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/13_shellfish.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/13_shellfish_932x810.png"
+                            }
+                        },
+                        "seo_name": "shellfish"
+                    },
+                    {
+                        "id": 27,
+                        "name": "Aperitivos e lanches",
+                        "weight": 0,
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/27_appetizers-snacks.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/27_appetizers-snacks_932x810.png"
+                            }
+                        },
+                        "seo_name": null
+                    },
+                    {
+                        "id": 28,
+                        "name": "Peixe magro",
+                        "weight": 0,
+                        "background_image": {
+                            "location": "//images.vivino.com/backgrounds/foods/28_leanfish.png",
+                            "variations": {
+                                "small": "//images.vivino.com/backgrounds/foods/thumbs/28_leanfish_932x810.png"
+                            }
+                        },
+                        "seo_name": null
+                    }
+                ],
+                "grapes": null,
+                "region": {
+                    "id": 987,
+                    "name": "Dão",
+                    "name_en": "",
+                    "seo_name": "dao",
+                    "country": {
+                        "code": "pt",
+                        "name": "Portugal",
+                        "native_name": "Portugal",
+                        "seo_name": "portugal",
+                        "currency": {
+                            "code": "EUR",
+                            "name": "Euros",
+                            "prefix": "€",
+                            "suffix": null
+                        },
+                        "regions_count": 93,
+                        "users_count": 1292568,
+                        "wines_count": 44877,
+                        "wineries_count": 6145,
+                        "most_used_grapes": [
+                            {
+                                "id": 67,
+                                "name": "Touriga Nacional",
+                                "seo_name": "touriga-nacional",
+                                "has_detailed_info": true,
+                                "wines_count": 85787,
+                                "parent_grape_id": null
+                            },
+                            {
+                                "id": 69,
+                                "name": "Tinta Roriz",
+                                "seo_name": "tinta-roriz",
+                                "has_detailed_info": false,
+                                "wines_count": 41047,
+                                "parent_grape_id": 19
+                            },
+                            {
+                                "id": 68,
+                                "name": "Touriga Franca",
+                                "seo_name": "touriga-franca",
+                                "has_detailed_info": false,
+                                "wines_count": 33763,
+                                "parent_grape_id": null
+                            }
+                        ]
+                    },
+                    "parent_id": 735,
+                    "background_image": {
+                        "location": "//images.vivino.com/regions/backgrounds/34x2o96vRoW3lL3V01Ls9g.jpg",
+                        "variations": {
+                            "large": "//thumbs.vivino.com/region_backgrounds/34x2o96vRoW3lL3V01Ls9g_1280x760.jpg",
+                            "medium": "//thumbs.vivino.com/region_backgrounds/34x2o96vRoW3lL3V01Ls9g_600x356.jpg"
+                        }
+                    },
+                    "class": {
+                        "typecast_map": {
+                            "background_image": {},
+                            "class": {},
+                            "location": {}
+                        }
+                    },
+                    "statistics": {
+                        "wineries_count": 312,
+                        "wines_count": 2799,
+                        "sub_regions_count": 7,
+                        "parent_regions_count": 2
+                    }
+                },
+                "parent_style_id": 626,
+                "hidden": false,
+                "statistics": {
+                    "wines_count": 761,
+                    "aggregated_wines_count": 761
+                },
+                "vintage_mask": "1<",
+                "baseline_structure": {
+                    "acidity": 4.0,
+                    "fizziness": null,
+                    "intensity": 3.0,
+                    "sweetness": 1.5,
+                    "tannin": null
+                }
+            },
+            "has_valid_ratings": false
+        },
+        "year": 2023,
+        "grapes": null,
+        "has_valid_ratings": false
+    },
+    "price": {
+        "id": 39564496,
+        "merchant_id": 35997,
+        "amount": 6.5,
+        "discounted_from": null,
+        "discount_percent": null,
+        "type": "vc",
+        "sku": "128988-0",
+        "url": "https://www.cellar47.com/alva-magna-branco-2023-75cl/",
+        "visibility": 1,
+        "bottle_type_id": 1,
+        "currency": {
+            "code": "EUR",
+            "name": "Euros",
+            "prefix": "€",
+            "suffix": null
+        },
+        "bottle_quantity": 1,
+        "minimum_unit_quantity": null,
+        "xms": 0,
+        "xmphs": false,
+        "price_group_id": [
+            "xom"
+        ],
+        "vfm_score": 0,
+        "vfm_category": null,
+        "bottle_type": {
+            "id": 1,
+            "name": "Garrafa (0,75 l)",
+            "short_name": "garrafa",
+            "short_name_plural": "garrafas",
+            "volume_ml": 750
+        }
+    },
+    "prices": [
+        {
+            "id": 39564496,
+            "merchant_id": 35997,
+            "amount": 6.5,
+            "discounted_from": null,
+            "discount_percent": null,
+            "type": "vc",
+            "sku": "128988-0",
+            "url": "https://www.cellar47.com/alva-magna-branco-2023-75cl/",
+            "visibility": 1,
+            "bottle_type_id": 1,
+            "currency": {
+                "code": "EUR",
+                "name": "Euros",
+                "prefix": "€",
+                "suffix": null
+            },
+            "bottle_quantity": 1,
+            "minimum_unit_quantity": null,
+            "xms": 0,
+            "xmphs": false,
+            "price_group_id": [
+                "xom"
+            ],
+            "vfm_score": 0,
+            "vfm_category": null,
+            "bottle_type": {
+                "id": 1,
+                "name": "Garrafa (0,75 l)",
+                "short_name": "garrafa",
+                "short_name_plural": "garrafas",
+                "volume_ml": 750
+            }
+        }
+    ]
+}
